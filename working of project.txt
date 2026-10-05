@@ -1,0 +1,5 @@
+department can add teachers and students 
+department can assign course to teachers 
+student can register and drop course 
+department can assign specific course to teacher for a student 
+then teacher can award marks 
